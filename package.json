@@ -1,20 +1,21 @@
 {
-    "title": "Name of the extension",
-    "name": "github-<owner>-<repo>",
-    "description": "A sample extension.",
+    "title": "Test_Repository",
+    "name": "gh-EM1128-Maker-Test_Repository",
+    "description": "A simple phcode.dev extension/theme.",
     "version": "0.0.1",
-    "license": "MIT",
-    "author": "your name (https://github.com/<your github id>)",
-    "homepage": "<project web page url or this github repo url if no website available>",
+    "license": "MIT License",
+    "author": "EM1128-Maker",
+    "homepage": "https://github.com/EM1128-Maker/Test_Repository",
     "engines": {
         "brackets": ">=2.0.0"
     },
     "categories": "demo",
     "keywords": [
-        "phcode", "extension", "demo"
+        "phcode",
+        "extension",
+        "demo"
     ],
     "files": [
         "main.js"
     ]
 }
-
